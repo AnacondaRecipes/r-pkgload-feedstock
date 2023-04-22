@@ -60,7 +60,7 @@ about:
 
 extra:
   recipe-maintainers:
-    - conda-forge/r
+    - ianaobi
 
 # Package: pkgload
 # Title: Simulate Package Installation and Attach
