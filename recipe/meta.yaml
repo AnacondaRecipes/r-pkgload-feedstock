@@ -61,6 +61,7 @@ about:
 extra:
   recipe-maintainers:
     - ianaobi
+    - bradley
 
 # Package: pkgload
 # Title: Simulate Package Installation and Attach
